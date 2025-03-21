@@ -1,0 +1,7 @@
+/home/kali/workspace/lab03dz/project_root/formatter_ex/build/CMakeFiles/formatter_ex.dir
+/home/kali/workspace/lab03dz/project_root/formatter_ex/build/CMakeFiles/edit_cache.dir
+/home/kali/workspace/lab03dz/project_root/formatter_ex/build/CMakeFiles/rebuild_cache.dir
+/home/kali/workspace/lab03dz/project_root/formatter_ex/build/CMakeFiles/list_install_components.dir
+/home/kali/workspace/lab03dz/project_root/formatter_ex/build/CMakeFiles/install.dir
+/home/kali/workspace/lab03dz/project_root/formatter_ex/build/CMakeFiles/install/local.dir
+/home/kali/workspace/lab03dz/project_root/formatter_ex/build/CMakeFiles/install/strip.dir

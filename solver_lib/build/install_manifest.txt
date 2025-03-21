@@ -1,0 +1,2 @@
+/usr/local/lib/libsolver_lib.a
+/usr/local/include/solver.h
