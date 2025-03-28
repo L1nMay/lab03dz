@@ -1,2 +1,0 @@
-/usr/local/lib/libformatter.a
-/usr/local/include/formatter.h
