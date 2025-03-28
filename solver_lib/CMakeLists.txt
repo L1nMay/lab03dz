@@ -1,9 +1,8 @@
 cmake_minimum_required(VERSION 3.10)
 project(solver_lib)
 
-add_library(solver_lib STATIC solver.h solver.cpp)
+add_library(solver_lib STATIC solver.cpp)
 
-install(TARGETS solver_lib
-        DESTINATION lib)
-install(FILES solver.h
-        DESTINATION include)
+target_include_directories(solver_lib PUBLIC
+    ${CMAKE_CURRENT_SOURCE_DIR}
+)

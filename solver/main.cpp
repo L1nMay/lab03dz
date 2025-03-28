@@ -1,7 +1,6 @@
-#include <iostream>  // Обязательно, если используете cout
+#include <iostream>
 
 int main() {
-    // Ваш код здесь
-    std::cout << "Hello from solver!" << std::endl; // Пример
+    std::cout << "Hello from solver!" << std::endl;
     return 0;
 }
