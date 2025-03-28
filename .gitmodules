@@ -1,0 +1,3 @@
+[submodule "project_root"]
+    path = project_root
+    url = https://github.com/L1nMay/lab03dz
