@@ -1,3 +1,0 @@
-/home/kali/workspace/lab03dz/project_root/solver/build/CMakeFiles/solver.dir
-/home/kali/workspace/lab03dz/project_root/solver/build/CMakeFiles/edit_cache.dir
-/home/kali/workspace/lab03dz/project_root/solver/build/CMakeFiles/rebuild_cache.dir

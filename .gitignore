@@ -1,6 +1,0 @@
-/project_root/**/build
-*.o
-*.exe
-*.dll
-*.a
-*.so
